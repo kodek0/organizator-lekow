@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "62caaeb207e84c26e2e5fed1"
+  },
+  "title": "Witamina C",
+  "description": "2 x dziennie",
+  "date": "2022-07-15"
+},{
+  "_id": {
+    "$oid": "62cab429ef50fbdf03a39277"
+  },
+  "title": "Witamina MK7",
+  "description": "3 x dziennie",
+  "date": "2022-07-24",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cab9cf07e84c26e2e5fed2"
+  },
+  "title": "Witamina B12",
+  "description": "1 x dziennie po obiedzie",
+  "date": "2022-07-29"
+},{
+  "_id": {
+    "$oid": "62caba1a07e84c26e2e5fed3"
+  },
+  "title": "Witamina A",
+  "description": "1 x dziennie po śniadaniu",
+  "date": "2022-07-20"
+}]
